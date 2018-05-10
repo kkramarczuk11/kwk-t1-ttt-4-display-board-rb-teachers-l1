@@ -3,6 +3,5 @@
 board = [" "," "," "," "," "," "," "," "," "]
 def display_board
   puts "#{board}"
-end 
+end
 display_board(board)
-
